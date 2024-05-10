@@ -1,0 +1,6 @@
+[submodule "PasswordStore-Audit"]
+	path = PasswordStore-Audit
+	url = ./
+[submodule "PuppyRaffle-Audit"]
+	path = PuppyRaffle-Audit
+	url = ./
